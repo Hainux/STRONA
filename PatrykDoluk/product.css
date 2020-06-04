@@ -1,0 +1,146 @@
+form{
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 60px;
+    
+}
+.lupka
+{
+     display: flex;
+    justify-content:flex-end;
+    margin-right: 10px;
+    
+}
+#szukaj {
+  
+    border: 0px solid;
+    height: 30px;
+    width: 170px;
+    color: #CCC;
+   
+}
+.linia
+{
+    
+   margin-left: auto;
+width: 270px;
+    
+    
+}
+
+main{
+    display: flex;
+    margin-top: 100px;
+}
+.sbox
+{
+       margin-left: 400px;
+width: 100px;
+    height: 120px;
+   opacity: 0.7;
+    cursor: pointer;
+    
+    
+    border: 1px solid black;
+    
+}
+.duze{
+    margin-left: 20px;
+    width: 400px;
+    height: 530px;
+   
+    
+}
+.sbox:hover{
+    opacity: 1;
+}
+.maininfo{
+    
+    margin-left: 150px;
+    
+}
+
+
+.masno-select:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+.masnoni{
+    padding: 0.5em;
+    font-size: 1em;
+    width: 10vw;
+    
+}
+.maininfo a{
+    display: block;
+    padding: 0.5em;
+    
+    width: 10vw;
+    font-size: 1em;
+    text-decoration: none;
+    border: 1px solid rgb(169, 169, 169);
+
+    margin: 0.5em 0;
+    color: black;
+}
+.info{
+    padding: 0.5em;
+}
+.kwadrat{
+     width: 400px;
+    height: 200px;
+     
+    margin-left: 510px;
+}
+.podobne{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+   
+width: 400px;
+    height: 500px;
+   
+    border: 1px solid black;
+    
+}
+.new{
+    margin-top: 20px;
+    margin-left: 300px;
+    height: 250px;
+    width: 500px;
+    border: 1px solid black;
+background-color: white;
+}
+
+
+#siemka{
+    display: flex;
+    justify-content: center;
+    
+}
+.dol{
+    padding: 40px;
+
+}
+article{
+    margin-top: 150px;
+    border-top: 1px solid black;
+
+        background-image:url(plywa.png);
+    height: 40vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+h3{
+    text-align: center;
+     padding: 50px;
+    font-size: 37px;
+    padding-bottom: 20px;
+}

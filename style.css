@@ -1,0 +1,125 @@
+form{
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 60px;
+    
+}
+.lupka
+{
+     display: flex;
+    justify-content:flex-end;
+    margin-right: 10px;
+    
+}
+#szukaj {
+  
+    border: 0px solid;
+    height: 30px;
+    width: 170px;
+    color: #CCC;
+   
+}
+.linia
+{
+    
+   margin-left: auto;
+width: 270px;
+    
+    
+}
+header{
+    background-image:url(biega.png);
+    height: 85vh;
+    width: 100%;
+    background-repeat: no-repeat;
+   
+    
+}
+.baner{
+    
+    color: white;
+    text-align: center;
+    padding: 400px;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+.linia2{
+    
+       margin-right: auto;
+width: 230px;
+}
+h2
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.item{
+   
+width: 400px;
+    height: 500px;
+   
+    border: 1px solid black;
+    
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.reklama{
+    margin-top: 20px;
+    height: 202px;
+    width: auto;
+    border: 1px solid black;
+}
+article{
+    margin-top: 20px;
+    border-top: 1px solid black;
+
+        background-image:url(plywa.png);
+    height: 40vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.new{
+    margin-top: 20px;
+    margin-left: 300px;
+    height: 250px;
+    width: 500px;
+    border: 1px solid black;
+    
+    
+}
+h3{
+    text-align: center;
+     padding: 50px;
+    font-size: 37px;
+    padding-bottom: 20px;
+}
+
+.dol{
+    padding: 50px;
+
+}
+figure{
+    background-color: white;
+    
+}
+#siemka{
+    display: flex;
+    justify-content: center;
+    
+}
+#hot
+{
+   color:#ff421d;
+}
+.hotstuff
+{
+    display: flex;
+}
+.fire
+{
+    
+    margin-top: 24px;
+}
